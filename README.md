@@ -4,6 +4,8 @@ UrbozPicker
 iOS Swift 2.0 Textfield with PickerView very simple
 ---------------------
 
+![alt text](http://i.imgur.com/E0z4hcn.png "UrbozPicker Demo")
+
 Create a simple textfield with pickerview to select options like html combobox.
 
 ### Steps:
@@ -23,4 +25,4 @@ Create a simple textfield with pickerview to select options like html combobox.
   countrySelection.selectorPicker.delegate = self.
 	countrySelection.selectorPicker.dataSource = self.
 
-thats it!!!
+Thats it!.
