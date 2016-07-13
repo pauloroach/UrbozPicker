@@ -11,7 +11,7 @@ Create a simple textfield with pickerview to select options like html combobox.
 * 1) Add a textfield to your project.
 * 2) Change the textfield class to UrbozPicker.
 
-![alt text]http://imgur.com/W2h3eJa
+![alt text](http://imgur.com/W2h3eJa "UrbozPicker Class")
 
 * 3) Add to your view controller the following delegates .
   class ViewController: UIViewController, UITextFieldDelegate, UIPickerViewDataSource, UIPickerViewDelegate.
